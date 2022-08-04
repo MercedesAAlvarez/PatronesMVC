@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "Comision 17": "nodemon --ext js,html --ignore public"
+    "Comision 17": "nodemon --ext js,ejs --ignore public"
   },
   "keywords": [],
   "author": "",
